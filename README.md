@@ -14,5 +14,5 @@ I am a passionate **Data Science student at GIFT University** (4th Semester). I 
 - **Market Price Scraper:** Python tool for real-time data extraction.
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Apna LinkedIn Link Yahan Paste Karain]
+- **LinkedIn:** [https://www.linkedin.com/in/hadiya-nasir/]
 - **Email:** hadianasir039@gmail.com
